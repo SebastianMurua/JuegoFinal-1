@@ -1,0 +1,3 @@
+Integrantes del grupo: Matias Flores y Luciano Ceballos
+Nombre de nuestro proyecto: Carrera de Autos
+Descripcion: Nosotros nos basamos en un juego que esta en la web, y quisimos llevarlo a Python mediante el uso de pilas. Se basa en un auto que va en una carretera y en direccion contraria avanzan otros autos,asi el jugador debera esquivar la mayor cantidad de autos posibles.
